@@ -1,4 +1,3 @@
-layout_spectrum: 0.8073174562305212
 typography_spectrum: 0.03056939784437418
 color:
   brandStrength: 0.27938899653963745
@@ -11,5 +10,7 @@ color:
     - '#0F0E09'
     - '#464C28'
     - '#E50511'
+layout_spectrum: 0.8073174562305212
 name: X-Point Needles
 title: X-Point Tattoo Needles
+description: The X you have been looking for your tattoo.
